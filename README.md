@@ -6,12 +6,12 @@
 
 <h3> 📚 &nbsp;Minhas Skills </h3>
 
-    - &nbsp; HTML, CSS e JAVASCRIPT
-    - &nbsp; REACTJS
-    - &nbsp; GOOGLE FIREBASE
-    - &nbsp; PYTHON
-    - &nbsp; POWERPOINT
-    - &nbsp; BOOTSTRAP
+- &nbsp; HTML, CSS e JAVASCRIPT
+- &nbsp; REACTJS
+- &nbsp; GOOGLE FIREBASE
+- &nbsp; PYTHON
+- &nbsp; POWERPOINT
+- &nbsp; BOOTSTRAP
  
 <h3> 🌎 &nbsp;Onde me encontrar</h3>
 
