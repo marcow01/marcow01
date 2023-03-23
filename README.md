@@ -1,7 +1,7 @@
 <h3>🥰 &nbsp; Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias no desenvolvimento web
-- 🎓 &nbsp; Estudando eletrotécnica no <a href="link da sua faculdade">IFPA Campus Tucuruí</a>
+- 🎓 &nbsp; Estudando eletrotécnica no <a href="https://tucurui.ifpa.edu.br/">IFPA Campus Tucuruí</a>
 - 🌱 &nbsp; Aprendendo mais sobre desenvolvimento mobile
 
 <h3> 📚 &nbsp;Minhas Skills </h3>
@@ -17,9 +17,6 @@
  
 <h3> 🌎 &nbsp;Onde me encontrar</h3>
 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://twitter.com/marcow0110">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 ![snake gif](https://github.com/Marcow01/Marcow01/blob/output/github-contribution-grid-snake.svg)
