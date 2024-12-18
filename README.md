@@ -1,1 +1,1 @@
-hi, my name is marcow and i'm a web developer!
+hi, my name is marcow and i'm a frontend developer!
