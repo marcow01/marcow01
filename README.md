@@ -1,6 +1,4 @@
-<p align="center">hi, welcome to my profile</p>
-
-<p align="center">my languages ​​and tools</p>
+<p align="center">hi, welcome to my profile, see my languages ​​and tools: </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="26" alt="javascript logo"  />
