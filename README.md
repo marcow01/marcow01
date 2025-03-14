@@ -11,7 +11,7 @@ Technology enthusiast, majoring in electrical engineering, passionate about know
 
 **Tools**  
 
-[![Tools](https://skillicons.dev/icons?i=vim,vscode,github,git,arduino,discord,postman,vercel)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vim,vscode,github,git,arduino,discord,postman,vercel,linux)](https://skillicons.dev)
 
 **Contact** 
 
